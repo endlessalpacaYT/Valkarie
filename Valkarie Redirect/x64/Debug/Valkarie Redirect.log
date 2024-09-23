@@ -1,0 +1,3 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\tyler\source\repos\Valkarie Redirect\Valkarie Redirect\dllmain.cpp(73,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
